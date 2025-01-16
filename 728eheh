@@ -1,9 +1,9 @@
 local Themes = {
   ["Default"] = {
-    ["Color Hub 1"] = Color3.fromRGB(0, 0, 0),
-    ["Color Hub 2"] = Color3.fromRGB(0, 0, 0),
-    ["Color Theme"] = Color3.fromRGB(240, 240, 240),
-    ["Color Text"] = Color3.fromRGB(240, 240, 240),
+    ["Color Hub 1"] = Color3.fromRGB(133, 24, 24),
+    ["Color Hub 2"] = Color3.fromRGB(133, 24, 24),
+    ["Color Theme"] = Color3.fromRGB(255, 255, 255),
+    ["Color Text"] = Color3.fromRGB(255, 255, 255),
     ["Color Dark Text"] = Color3.fromRGB(200, 200, 200),
     ["Color Stroke"] = Color3.fromRGB(80, 80, 80),
     ["Corner Radius"] = UDim.new(0, 5),
